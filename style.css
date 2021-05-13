@@ -1,0 +1,110 @@
+h1 {
+  color: black;
+  text-align: center;
+  font-size:50px;
+}
+
+h2 {
+   text-align: left
+   style="color:Tomato;">COMMUNICATIONS</h2>
+}   
+
+h3 {
+   text-align: left
+   style="color:Tomato;">PERSONAL SUPPLIES</h3>
+}
+
+h4 {
+   text-align: left
+    font-size: 40px;
+	style="background-color:Green;">TYPHOONS
+	 style="background-color:Red;">MITIGATION
+	 style="background-color:Blue;">PREPAREDNESS
+	 style="background-color:Yellow;">RESPONSE
+	 style="background-color:Orange;">RECOVERY
+	 style="background-color:Light blue;">CONCLUSION
+	 style="background-color:Purple;">REFERENCES
+}
+
+p {
+   color: black
+   text-align: left
+}
+   
+li {
+   text-align: left
+    font-size: 25px;
+}
+
+dd {
+   text align: left
+   color: black   
+}
+ 
+dd1 {
+   font-family: Arial
+   text align: left
+}
+   
+dd2 {
+   font-family: Arial
+   text align: left
+}
+
+dd3 {
+   font-family: Arial
+   text align: left
+}
+
+dd4 {
+   font-family: Arial
+   text align: left
+}
+
+dd5 {
+   font-family: Arial
+   text align: left
+}
+
+dd6 {
+   font-family: Arial
+   text align: left
+}
+
+dd8 {
+   font-family: Arial
+   text align: left
+}
+
+ul.a {
+  list-style-type: square;
+}
+<li class="a">
+  <li>HEALTH</li>
+  <li>Water</li>
+  <li>Food</li>
+  <li>First-aid kit</li>
+  <li>Non-prescription drugs</li>
+</li>
+
+ul.b {
+  list-style-type: square;
+}
+<li class="b">
+  <li>National Emergency Hotline in the Philippines : 911</li>
+  <li>Philippine National Police Hotline: 117 or (02) 8722-0650</li>
+  <li>Philippine Red Cross: 143 or (02) 8527-8385 to 95</li>
+  <li>Bureau of Fire Protection: (02) 8426-0219 or (02) 8426-3812</li>
+</li>
+
+ul.c {
+  list-style-type: square;
+}
+<li class="c">
+  <li>Ensuring safety of citizens by analysing weather reports in the future.</li>
+  <li>A national emergency force must be stationed near the affected area at all times.</li>
+  <li>Possible complications must be avoided by conducting mock drills for emergency evacuation.</li>
+  <li>The buildings must be build in such a way that it does not collapse during a disaster.</li>
+  <li>First aid kits must be made available in all houses.</li>
+  <li>The possibilities of a contagious disease in that area which is resulted from the disaster must not be avoided.</li>
+</li>
